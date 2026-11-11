@@ -1,9 +1,6 @@
 # dmm-fanza-fullscreen
 DMM/FANZA网页游戏全屏 | DMM/FANZA GAMES Fullscreen
 油猴脚本tampermonkey script
-警告：代码已经是屎山了，代码很烂勉强用，你有能力调整就请修复它。
-Warning: This code is basically a mountain of dog shit. It can run but shit, if you know please fix it.
-
 ## ⚖️ 免责声明 (Disclaimer)
 
 1. **仅供研究学习**：本脚本（以下简称“本工具”）仅供个人学习、计算机技术研究以及设计交流使用，严禁将本工具用于任何商业目的或非法用途。
